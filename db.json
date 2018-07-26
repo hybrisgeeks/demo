@@ -1,8 +1,7 @@
 {
- "customer" : { [{
+ "customer" : { {
   "id": "1",
-  "self" : [
-             {
+  "self" : {
          "id": "1001406991",
          "object": "customer",
          "type": "Person",
@@ -20,9 +19,9 @@
          "lastName": "Doe",
          "cardNumber": "12345678"
          }
-         } ]
+         } 
             }
-       ]
+       
 }
 
 }
