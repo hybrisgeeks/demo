@@ -1,5 +1,7 @@
 {
- "customerself" : [{
+ "customer" : {
+  
+       "self" : {[{
               "id": "1001406991",
               "object": "customer",
               "type": "Person",
@@ -18,4 +20,6 @@
               "cardNumber": "12345678"
               }
               } ]
+             }   
+            }
 }
