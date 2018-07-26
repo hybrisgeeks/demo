@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "customerself" : [{
+              "id": "1001406991",
+              "object": "customer",
+              "type": "Person",
+              "firstName": "Jane",
+              "lastName": "Doe",
+              "displayName": "Jane Doe",
+              "organisationName": "string",
+              "address": {
+              "standard": {}
+              },
+              "referralCode": "vxyst",
+              "airpoints": {
+              "registered": true,
+              "firstName": "Jane",
+              "lastName": "Doe",
+              "cardNumber": "12345678"
+              }
+              } ]
 }
