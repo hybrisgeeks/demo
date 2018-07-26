@@ -9,19 +9,19 @@
          "lastName": "Doe",
          "displayName": "Jane Doe",
          "organisationName": "string",
-         "address": {
-         "standard": {}
-         },
+            "address": {
+            "standard": {}
+            },
          "referralCode": "vxyst",
-         "airpoints": {
-         "registered": true,
-         "firstName": "Jane",
-         "lastName": "Doe",
-         "cardNumber": "12345678"
-         }
-         } 
+            "airpoints": {
+            "registered": true,
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "cardNumber": "12345678"
             }
+         } // end of self 
+            } //end of customer 
        
-}]
+]
 
 }
