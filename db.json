@@ -1,26 +1,98 @@
 {
- "customer" : [{ 
-  "id": "1",
-  "self" : {
-         "id": "1001406991",
-         "object": "customer",
-         "type": "Person",
-         "firstName": "Jane",
-         "lastName": "Doe",
-         "displayName": "Jane Doe",
-         "organisationName": "string",
-            "address": {
-            "standard": {}
-            },
-         "referralCode": "vxyst",
-            "airpoints": {
-            "registered": true,
-            "firstName": "Jane",
-            "lastName": "Doe",
-            "cardNumber": "12345678"
-            }
-         } 
-            } 
+ "customer" : [
+  
+      { 
+      "id": "1",
+      "self" : {
+             "id": "1001406991",
+             "object": "customer",
+             "type": "Person",
+             "firstName": "Jane",
+             "lastName": "Doe",
+             "displayName": "Jane Doe",
+             "organisationName": "string",
+                "address": {
+                "standard": {}
+                },
+             "referralCode": "vxyst",
+                "airpoints": {
+                "registered": true,
+                "firstName": "Jane",
+                "lastName": "Doe",
+                "cardNumber": "12345678"
+                }
+             } 
+         },
+  
+        { 
+      "id": "2",
+      "self" : {
+             "id": "1001406991",
+             "object": "customer",
+             "type": "Person",
+             "firstName": "Jane",
+             "lastName": "Doe",
+             "displayName": "Jane Doe",
+             "organisationName": "string",
+                "address": {
+                "standard": {}
+                },
+             "referralCode": "vxyst",
+                "airpoints": {
+                "registered": true,
+                "firstName": "Jane",
+                "lastName": "Doe",
+                "cardNumber": "12345678"
+                }
+             } 
+         },
+  
+  
+          { 
+      "id": "3",
+      "self" : {
+             "id": "1001406991",
+             "object": "customer",
+             "type": "Person",
+             "firstName": "Jane",
+             "lastName": "Doe",
+             "displayName": "Jane Doe",
+             "organisationName": "string",
+                "address": {
+                "standard": {}
+                },
+             "referralCode": "vxyst",
+                "airpoints": {
+                "registered": true,
+                "firstName": "Jane",
+                "lastName": "Doe",
+                "cardNumber": "12345678"
+                }
+             } 
+         },
+  
+          { 
+      "id": "4",
+      "self" : {
+             "id": "1001406991",
+             "object": "customer",
+             "type": "Person",
+             "firstName": "Jane",
+             "lastName": "Doe",
+             "displayName": "Jane Doe",
+             "organisationName": "string",
+                "address": {
+                "standard": {}
+                },
+             "referralCode": "vxyst",
+                "airpoints": {
+                "registered": true,
+                "firstName": "Jane",
+                "lastName": "Doe",
+                "cardNumber": "12345678"
+                }
+             } 
+         },
        
 ]
 
